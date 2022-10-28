@@ -1,4 +1,4 @@
-# docker-sbt-node
+# docker-sbt-node / Astha
 
 Docker image for building Scala projects with JS frontend. Contains JDK, SBT, NodeJS, Yarn and Docker in Docker. Docker in Docker allows the SBT Docker Plugin to build docker images using SBT. This image is based on [hseeberger/scala-sbt](https://hub.docker.com/r/hseeberger/scala-sbt). Updated
 
